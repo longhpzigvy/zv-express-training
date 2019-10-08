@@ -47,6 +47,11 @@ The course is assuming that you are familar with **Javascript**, **Basic NodeJS*
 - **Training 6 - Advanced RESTful API Design**
   - Nested API
   - How to design a RESTful API more effciently?
+    - URI modeling
+    - Meaningful HTTP status
+    - When URL params, when query params
+    - Collection and field name convension
+    - API versioning
 
 - **Training 7 - Authenticate a user request using JWT**
   - What is Json Web Token?
