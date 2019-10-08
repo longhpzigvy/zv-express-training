@@ -22,7 +22,7 @@ The course is assuming that you are familar with **Javascript**, **Basic NodeJS*
   - Basic of Express Routing
   - The usage of `request` object
   - The usage of `response` object
-  - The usage of `next` object
+  - The usage of `next` function
   - Execution order of express routing
 
 - **Training 3 - Express middleware**
