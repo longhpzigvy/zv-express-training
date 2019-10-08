@@ -14,6 +14,9 @@ The course is assuming that you are familar with **Javascript**, **Basic NodeJS*
   - Setup a simple HTTP Server using Express
   - Folder structure overview
   - NodeJS' CommonJS module
+  - Config `Babel` for ES6 import/export syntax
+  - Config `nodemon` for HMR
+  - Config `ESLint` for code linting
 
 - **Training 2 - Express routing**
   - Basic of Express Routing
